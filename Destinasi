@@ -1,7 +1,5 @@
 {
-  "status": "success",
-  "total": 10,
-  "data": [
+  "result"[
     {
       "id": 1,
       "nama": "Raja Ampat",
