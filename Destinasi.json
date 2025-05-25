@@ -1,0 +1,74 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "nama": "Raja Ampat",
+      "lokasi": "Papua Barat",
+      "deskripsi": "Kepulauan yang dikenal dengan keindahan bawah laut dan keanekaragaman hayati.",
+      "foto": "https://ik.imagekit.io/imagepi/Raja_Ampat,_Mutiara_Indah_di_Timur_Indonesia.jpg?updatedAt=1748162383505"
+    },
+    {
+      "id": 2,
+      "nama": "Danau Toba",
+      "lokasi": "Sumatera Utara",
+      "deskripsi": "Danau vulkanik terbesar di dunia dengan Pulau Samosir di tengahnya.",
+      "foto": "https://api2.kemenparekraf.go.id/storage/app/resources/PARIWISATA_STORYNOMICS_TOURISM_shutterstock_385096972_franshendrik_Tambunan_d03d3440db.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "Gunung Bromo",
+      "lokasi": "Jawa Timur",
+      "deskripsi": "Gunung berapi aktif yang menjadi destinasi wisata dengan pemandangan matahari terbit yang ikonik.",
+      "foto": "https://image.popbela.com/content-images/post/20231225/8aa929d9b2986a7c68fc365585a28ceb.jpg?width=1600&format=webp&w=1600"
+    },
+    {
+      "id": 4,
+      "nama": "Taman Nasional Komodo",
+      "lokasi": "Nusa Tenggara Timur",
+      "deskripsi": "Habitat asli komodo, satwa purba yang hanya ada di Indonesia.",
+      "foto": "https://cdn.rri.co.id/berita/1/images/1683347645117-komodo-mngl1x-prv/1683347645117-komodo-mngl1x-prv.jpg"
+    },
+    {
+      "id": 5,
+      "nama": "Kawah Ijen",
+      "lokasi": "Banyuwangi, Jawa Timur",
+      "deskripsi": "Gunung berapi dengan fenomena api biru dan tambang belerang aktif.",
+      "foto": "https://www.yukbanyuwangi.co.id/wp-content/uploads/2023/12/DJI_0126_1200.jpg"
+    },
+    {
+      "id": 6,
+      "nama": "Pantai Pink",
+      "lokasi": "Lombok, NTB",
+      "deskripsi": "Pantai unik dengan pasir berwarna merah muda yang jarang ditemukan di dunia.",
+      "foto": "https://bams.jambiprov.go.id/wp-content/uploads/2023/09/Pantai-Pink-Lombok.png"
+    },
+    {
+      "id": 7,
+      "nama": "Taman Laut Bunaken",
+      "lokasi": "Sulawesi Utara",
+      "deskripsi": "Surga bagi penyelam dengan terumbu karang dan keanekaragaman biota laut.",
+      "foto": "https://ik.imagekit.io/tvlk/blog/2020/01/keindahan-alam-indonesia-5-Super-Adventure.jpg"
+    },
+    {
+      "id": 8,
+      "nama": "Green Canyon",
+      "lokasi": "Pangandaran, Jawa Barat",
+      "deskripsi": "Sungai hijau jernih yang mengalir di antara tebing batu dan stalaktit.",
+      "foto": "https://awsimages.detik.net.id/community/media/visual/2024/05/26/objek-wisata-green-canyon-pangandaran-3_169.jpeg?w=1200"
+    },
+    {
+      "id": 9,
+      "nama": "Goa Jomblang",
+      "lokasi": "Yogyakarta",
+      "deskripsi": "Goa vertikal dengan cahaya surgawi yang masuk melalui lubang di atas.",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxDco0PZ5C258VGJxF829yaXFtnoFVGUiuaw&s"
+    },
+    {
+      "id": 10,
+      "nama": "Air Terjun Tumpak Sewu",
+      "lokasi": "Lumajang, Jawa Timur",
+      "deskripsi": "Air terjun spektakuler dengan panorama menyerupai tirai raksasa.",
+      "foto": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/97/b7/6f/tumpak-sewu-waterfalls.jpg?w=1200&h=1200&s=1"
+    }
+  ]
+}
